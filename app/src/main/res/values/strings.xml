@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about">About</string>
+    <string name="app_name">Digital Wellbeing</string>
+
+    <string name="close">Close</string>
+
+    <string name="detail">Details</string>
+    <string name="duration">Duration</string>
+    <string name="sort_by">Sort</string>
+
+    <string name="enable_apps_monitor">Enable apps monitor</string>
+    <string name="enable_apps_monitoring">Apps monitoring</string>
+
+    <string name="feedback">TY Project 2021-22</string>
+
+    <string name="grant_success">Grant permission successfully</string>
+
+    <string name="hide_system_apps">Hide System Apps</string>
+    <string name="hide_uninstall_apps">Hide Uninstalled Apps</string>
+
+    <string name="ignore">Ignore this app</string>
+    <string name="ignore_hint">Apps in this list will be hidden</string>
+    <string name="ignore_list">Ignore list</string>
+    <string name="ignore_success">Move to ignore list successfully</string>
+
+    <string name="more">More detail</string>
+    <string name="app_info">App info</string>
+
+    <string name="notification_title">AppTimeline running</string>
+    <string name="notification_message">monitoring your app usage</string>
+    <string name="not_support">You device not support monitoring</string>
+
+    <string name="open">Open</string>
+
+    <string name="refresh">Refresh</string>
+
+    <string name="settings">Settings</string>
+    <string name="settings_function">Functions</string>
+    <string name="settings_more">More</string>
+    <string name="share"></string>
+    <string name="share_desc"></string>
+    <string name="slogan">A way to Live Better.</string>
+    <string name="sort">Sort By</string>
+
+    <string name="toast_permission">Please find \"AppsTimeline\" and grant the permission</string>
+    <string name="times">%1$s · %2$d times</string>
+    <string name="times_only">times</string>
+    <string name="total">%1$s</string>
+
+    <string name="workCard">This Card displays total time you have been productive using our Work Mode. Looking at Stats you are doing great, Keep it Up.</string>
+    <string name="educationCard">This Card displays total time you have been Learning using our Education Mode. Looking at Stats you are doing great, Keep it Up.</string>
+    <string name="socialCard">This Card displays total time you have been Socialise using our Social Mode. Looking at Stats you are doing great, Keep it Up.</string>
+    <string name="focusCard">This Card displays total time you have been Focused using our Focus Mode. Looking at Stats you are doing great, Keep it Up.</string>
+
+    <string name="version">TY Final Year Project By Ankit Vishwakarma, Utkarsh Singh and Sanambir Singh</string>
+
+    <string name="Gain1">To be able to eat as much as you want… that is all well and good. But you still need to eat a healthy diet if you want to gain weight fast.
+    Burgers, fries, and soft drinks are full of calories, but they also contain lots of saturated fats, salt, and sugar.
+    You are better off focusing on nutrient- and calorie-rich foods to gain weight.</string>
+    <string name="Gain2">You don’t have to eat your daily calorie requirement in three main meals.
+Five or six regular meals (spaced out throughout the day) are easier on your stomach and keep you feeling full.
+Plus, you should avoid skipping meals and you should always have some snacks on you in case you get hungry while on the go.</string>
+    <string name="Gain3">If you try to start eating enormous meals from one day to the next, it won’t work.
+Gradually increase your portion size every week instead.
+This way your body can get used to larger meals slowly.</string>
+    <string name="Gain4">Stay away from products labeled “low-fat” or “light”.
+At the grocery store, make sure to buy the regular fat version.
+Also, foods naturally high in fat like avocado, nuts, seeds or high-quality vegetable oil should be a regular part of your meal plan.
+They fill you up and provide you with plenty of nutrients and calories.</string>
+    <string name="Gain5">Log everything you eat and drink: a food tracking app helps you learn more about your eating habits.
+Perhaps you can squeeze in a few more calories here or there? Or maybe you forgot to eat breakfast yesterday?</string>
+
+    <string name="Loss1">People who have had success losing weight have a few things in common:
+1.They weigh themselves at least once a week.
+2.They restrict their calorie intake, stay away from high-fat foods, and watch their portion sizes.
+3.They also exercise regularly. </string>
+    <string name="Loss2">Exercise accounts for a small portion of daily calorie burn.
+Even when you work out, those extra calories burned only account for a tiny part of your total energy expenditure, only around 10 to 30 percent, depending on the person. It\'s not nearly equal to food intake.
+ </string>
+    <string name="Loss3">Self-monitoring is a critical factor in successfully losing weight.
+Those who can track their success in small increments and identify physical changes are much more likely to stick to a weight loss regimen.</string>
+    <string name="Loss4"> Regular exercise is vital for both physical and mental health.
+Increasing the frequency of physical activity in a disciplined and purposeful way is often crucial for successful weight loss.
+One hour of moderate-intensity activity per day, such as brisk walking, is ideal.</string>
+    <string name="Loss5">It is possible to consume hundreds of calories a day by drinking sugar-sweetened soda, tea, juice, or alcohol.
+These are known as “empty calories” because they provide extra energy content without offering any nutritional benefits.</string>
+
+    <string name="wifi_data">WiFi:%1$s · Mobile:%2$s</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="privacy_policy">This privacy policy ("policy") will help you understand how we  uses and protects the data you provide to us when you visit and use [website] ("website", "service").
+We reserve the right to change this policy at any given time, of which you will be promptly updated. If you want to make sure that you are up to date with the latest changes, we advise you to frequently visit this page.
+What User Data We Collect
+When you visit the website, we may collect the following data:
+•	Your IP address.
+•	Your contact information and email address.
+•	Other information such as interests and preferences.
+•	Data profile regarding your online behavior on our website.
+Why We Collect Your Data
+We are collecting your data for several reasons:
+•	To better understand your needs.
+•	To improve our services and products.
+•	To send you promotional emails containing the information we think you will find interesting.
+•	To contact you to fill out surveys and participate in other types of market research.
+•	To customize our website according to your online behavior and personal preferences.
+Safeguarding and Securing the Data
+ is committed to securing your data and keeping it confidential. It has done all in its power to prevent data theft, unauthorized access, and disclosure by implementing the latest technologies and software, which help us safeguard all the information we collect online.
+</string>
+</resources>

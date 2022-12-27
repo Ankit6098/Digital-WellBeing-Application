@@ -1,0 +1,75 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="300dp"
+        android:layout_height="450dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="28dp"
+        android:elevation="7dp"
+        app:cardBackgroundColor="#FFFFFF"
+        app:cardCornerRadius="18dp">
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            app:cardBackgroundColor="#FFFFFF"
+            app:cardCornerRadius="22dp"
+            android:layout_margin="20dp"
+            >
+
+            <ImageView
+                android:id="@+id/loss_image"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:src="@drawable/salad"
+                android:scaleType="centerCrop"
+                />
+
+        </androidx.cardview.widget.CardView>
+
+
+
+        <TextView
+            android:id="@+id/loss_heading"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="15dp"
+            android:layout_marginRight="15dp"
+            android:layout_marginTop="35dp"
+            android:gravity="center"
+            android:text="Quality Over Quantity"
+            android:textColor="#000000"
+            android:textSize="20sp"
+            android:layout_gravity="center"
+            android:fontFamily="@font/poppins_semibold"
+
+            />
+
+
+
+        <TextView
+            android:id="@+id/loss_description"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="285dp"
+            android:layout_marginLeft="30dp"
+            android:layout_marginRight="30dp"
+            android:text="To be able to eat as much as you want… that is all well and good. But you still need to eat a healthy diet if you want to gain weight fast.Burgers, fries, and soft drinks are full of calories, but they also contain lots of saturated fats, salt, and sugar.You are better off focusing on nutrient- and calorie-rich foods to gain weight"
+            android:textColor="#CD676767"
+            android:fontFamily="@font/poppins"
+            android:textSize="12dp"
+            android:justificationMode="inter_word"
+            />
+
+
+    </androidx.cardview.widget.CardView>
+
+</RelativeLayout>
